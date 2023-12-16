@@ -1,6 +1,6 @@
 # My Personal Portfolio Website 🚀
 
-This repository contains the code for my personal portfolio website, which is live at [Portfolio Website Link](https://your-portfolio-website.com).
+This repository contains the code for my personal portfolio website, which is live at [Portfolio Website Link](https://divya-pardeshi.github.io/webportfolio/).
 
 ## Overview 🌟
 
@@ -40,8 +40,10 @@ To personalize or deploy this website:
 
 Here are a few snapshots of my portfolio website:
 
-- [Homepage](/website_images/HomePage.png)
-- [Projects Section](/website_images/ProjectPage.png)
+- Homepage![HomePage](https://github.com/Divya-Pardeshi/webportfolio/assets/114762794/ea74c6bb-254f-4c4a-96eb-463f9919bb36)
+
+- Projects Section![ProjectPage](https://github.com/Divya-Pardeshi/webportfolio/assets/114762794/5ac0d4dd-860c-478f-9300-46a8e697813a)
+
 
 ## Tools Employed 🛠️
 
